@@ -1,0 +1,6 @@
+{
+  "name": "YAKSA SLASH",
+  "description": "An action-packed 2.5D retro RPG built with Three.js. Fight off waves of enemies, collect potions, and survive the onslaught!",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
